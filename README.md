@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm Nei, a cat. YES, a cat 🐱. 
 
 ### 🔭 I'm currently studying Humanities at UPF.
-- UPF is in Barcelona (next to the zoo🐒).
+- UPF is located in Barcelona (next to the zoo🐒).
 - My speciallity would be the History.
 
 ### 🌱 I’m currently learning: 
